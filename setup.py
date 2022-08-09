@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 requirements = [
-    "brainscore_language @ git+https://github.com/brain-score/language",
+    "brainscore_language @ git+https://github.com/brain-score/language@7527cec",
     "transformers",
     "torch",
     "datasets",
